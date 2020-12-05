@@ -21,5 +21,5 @@ https://guides.github.com/features/mastering-markdown/
 
 As Agnieszka said:
 
-> We're living the future so
+> Ucz sie Gita
 > the present is our past.
