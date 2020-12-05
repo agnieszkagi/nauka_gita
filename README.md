@@ -24,3 +24,6 @@ As Agnieszka said:
 
 > Ucz sie Gita
 > a bedziesz dobrym testerem
+
+
+![Image of python logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JpyTv2wt6nkbfhi5fMwsI7yhuEIBHe7PHA&usqp=CAU)
