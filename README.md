@@ -1,3 +1,4 @@
+
 ## Nauka Gita
 
 **Pogrubiony tekst**
@@ -22,4 +23,4 @@ https://guides.github.com/features/mastering-markdown/
 As Agnieszka said:
 
 > Ucz sie Gita
-> the present is our past.
+> a bedziesz dobrym testerem
